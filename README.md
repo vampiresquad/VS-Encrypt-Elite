@@ -34,7 +34,8 @@ cd VS-Encrypt-Elite
 chmod +x install.sh
 bash install.sh
 python vampire.py
-
+```
+```bash
 ### 2️⃣ For Linux (Kali/Ubuntu)
 
 sudo apt update && sudo apt install git -y
@@ -43,6 +44,8 @@ cd VS-Encrypt-Elite
 chmod +x install.sh
 sudo bash install.sh
 python3 vampire.py
+
+```
 ## ⚙️ How It Works
 The encryption process of **VS-Encrypt-Elite** involves a multi-layer security approach to ensure maximum protection:
 
