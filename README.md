@@ -29,7 +29,7 @@ Just copy and paste the following commands:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone [https://github.com/vampiresquad/VS-Encrypt-Elite.git](https://github.com/vampiresquad/VS-Encrypt-Elite.git)
+git clone https://github.com/vampiresquad/VS-Encrypt-Elite.git
 cd VS-Encrypt-Elite
 chmod +x install.sh
 bash install.sh
@@ -39,7 +39,7 @@ python vampire.py
 ### 2️⃣ For Linux (Kali/Ubuntu)
 
 sudo apt update && sudo apt install git -y
-git clone [https://github.com/vampiresquad/VS-Encrypt-Elite.git](https://github.com/vampiresquad/VS-Encrypt-Elite.git)
+git clone https://github.com/vampiresquad/VS-Encrypt-Elite.git
 cd VS-Encrypt-Elite
 chmod +x install.sh
 sudo bash install.sh
